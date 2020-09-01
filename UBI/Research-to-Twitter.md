@@ -1,165 +1,40 @@
-Universal Basic Income And The Blockchain In Government -- Research-Based Opinions
+### Universal Basic Income And The Blockchain In Government -- Research-Based Opinions
 
-
-#money #beneficiary #incentive #grow 
+  Creating a decent basic income system now, even if it had only a little money in it at first, would give every potential beneficiary an incentive to see it grow. [5] One way or another, creating a decent basic income system now, even if it had only a little money in it at first, would give every potential beneficiary an incentive to see it grow. [5]
         
-    Creating a decent basic income system now, even if it had only a little money in it at first, would give every potential beneficiary an incentive to see it grow. [5]
+  There are strong arguments both in favor and against basic income, but rather little evidence as to how people actually react and behave when they get unconditional guaranteed income. What evidence we do have from pilot programs is almost entirely with positive results on both economy and general quality of life. [0] There are other digital currencies being developed or discussed that include their own variants on the basic income idea, including the Kiwicoin in New Zealand, Cubecoin, Strangecoin, the Worldwide Globals Organization, and the Basic Income Project, LLC. [5]
         
-    One way or another, creating a decent basic income system now, even if it had only a little money in it at first, would give every potential beneficiary an incentive to see it grow. [5]
+  Basic Income advocates tinkering with Bitcoin and other online currencies have created a series of experiments under the premise that we can start playing with basic income now, whether the government gets in on it or not. [5] This is a defining challenge for basic income schemes based on cryptocurrencies, and some have addressed it more convincingly than others. [5]
         
-    There are strong arguments both in favor and against basic income, but rather little evidence as to how people actually reach and behave when they get unconditional guaranteed income. [0]
+  Activists could also target entities that take advantage of the commons -- energy companies, internet giants, pharmaceutical firms profiting from publicly funded research -- and hold sit - ins outside their doors until they pay into the fund. [5] While by now most people have long accepted the notion that all of our activity is tracked and monitored by a plethora of private corporations, enabling the government to have an open and instant socket into our every move is, for some at least, rather unnerving. [13]
+        
+ The team behind Circles argues that "the concept of a UBI is not just compatible but the foundation of a fair money. [2] At its core, Larimer's philosophy is based on the idea that no one person is entitled to earth's resources, and that wealth built from these resources could be redistributed over a set period of time utilizing his proposed plan for universal resource inheritance -- this view is certainly extreme, but, much like a fashion runway model's clothing will not be what's on the shelf, the people with ideas are often the least practicable. [7]
+        
+ UBI is a regular cash payment to individuals, without being subject to means testing or requiring any form of work to qualify. [12] Unfortunately, it is very difficult to educate a conservative voter as to why this is a good thing for even the most evil business. There's no means - testing, no sanctions if the subjects become employed or generate an income from freelance working during the trial. In this way, we can avoid the Concervative worry of wealthy individuals somehow feeling less wealthy by way of their less fortunate neighbors having a roof and food. [12]
+        
+ The IMF describes universal basic income as an income support mechanism, in which regular cash payments are intended to reach all ( or a very large ) portion of the population with no ( or minimal ) conditions. [16] An unconditional income that is sufficient to meet a person's basic needs ( at or above the poverty line ), is called full basic income, while if it is less than that amount, it is called partial. [8] By having a full basic income, all companies suddenly have a far larger paying customer base. Currently, the arguments against a UBI are entirely held within the realm of opinion, and personal projection. Often, "Why would people work if they don't have to?" is asked, usually by the very same people who claim to work harder than they have to. For this reason, Pilot programs and hard data are necessary to show them flatly that they are wrong in the most objective possible sense. Though, it is hard to educate petty ignorance out of a conservative.
+        
+  Barely a day goes by without reports of another country -- China, India, and Russia most notable among them -- decreeing the eventual implementation of government backed cryptocurrency. [13] As long as governments remain the presiding entities controlling our society, the laws they enact will largely dictate the future implementation and usage of crypto. [13] Ironically, the very tools that were built with visions of freedom and autonomy may very well be the implement of choice for a new level of surveillance and control. [13] While there are many clear benefits in having government backed crypto, there may be a few drawbacks to centralized implementation of a technology originally conceived by anti-authoritarian activists. [13] Naturally, no extreme group will win out in this -- at least, we hope not.
+        
+  The idea is to test if the carrot works better than the stick in encouraging the unemployed to accept new jobs offers and to seek income from entrepreneur activities. [0] The basic income cash sum will replace the existing flat rate unemployment benefits and will continue to be paid even if they take up jobs. [0] Since 1970s, social policies on both sides of the Atlantic have been dominated by workfare policies where the payment of benefits is made conditional on participation in job promoting activities such as training, rehabilitation and work experience, or on unpaid or low-paid work. [0]
+        
+  An additional advantage is that recipients of this basic income do not need to report their incomes to the unemployment office, which reduces bureaucracy and the insecurity caused by fluctuating benefit levels. [0]
         
     
 
 
-#projects #start #currencies 
+### University Economics
+
+  Guy Standing, a research professor in development studies at SOAS, University of London, told CNBC via telephone that there was no prospect of a global economic revival without a universal basic income. [16] Cailin Birch, global economist at the Economist Intelligence Unit, told CNBC via telephone that Spain's decision to roll out a universal basic income could pave the way for other countries to follow suit. [16] Economists at RMIT University in Melbourne and the University of Queensland, in Australia, have proposed a system that eliminates the need for centralized pooling : a personal equity swap. [2] At the end of March, a post on the World Economic Forum website admitted that UBI had moved from the "fringes of mainstream economics" to center stage, because of COVID-19. [15]
         
-    His response, of course, is software -- in particular, Group Currency, a specification for online currency systems that provide basic income - like distributions of funds to all their users. [5]
-        
-    But there are other digital currencies being developed or discussed that include their own variants on the basic income idea, including the Kiwicoin in New Zealand, Cubecoin, Strangecoin, the Worldwide Globals Organization, and the Basic Income Project, LLC. [5]
-        
-    Over the past few months, basic income advocates tinkering with Bitcoin and other online currencies have created a series of experiments under the premise that we can start playing with basic income now, whether the government gets in on it or not. [5]
-        
-    This is a defining challenge for basic income schemes based on cryptocurrencies, and some have addressed it more convincingly than others. [5]
-        
+# Democracy Earth
+
+  Participants validate their identity based consensus of participant singularity and humanity; validated participants are granted an ERC725 citizenship with the right to participate in the Democracy Earth Network. [14] The growing support for UBI resonates with the Democracy Earth vision behind The Social Smart Contract and the development of our tokenized liquid democracy platform. [14] A token-based liquid democracy model fights corruption by allowing citizens full control over their votes to accurately signal their priorities. [14] Democracy Earth's VOTE token provides a highly implementable version of a Universal Basic Income that is easy to distribute, easy to audit, and provides both political and economic liquidity. [14]     
     
 
-
-#profiting #States #funded #notion #monitored 
+# Alaska 
         
-    Activists could also target entities that take advantage of the commons -- energy companies, internet giants, pharmaceutical firms profiting from publicly funded research -- and hold sit - ins outside their doors until they pay into the fund. [5]
-        
-    While by now most people have long accepted the notion that all of our activity is tracked and monitored by a plethora of private corporations, enabling the government to have an open and instant socket into our every move is, for some at least, rather unnerving. [13]
-        
-    
-
-
-#UBI #concept #resources #idea 
-        
-    By simply giving away money, today blockchain UBI activists also underline something radical about the basic income concept that extends back to Paine. [2]
-        
-    The team behind Circles argues that "the concept of a UBI is not just compatible but the foundation of a fair money. [2]
-        
-    I 've been interested in the concept of Universal Basic Income since I first heard about it a good few years back. [11]
-        
-    At its core, Larimer's philosophy is based on the idea that no one person is entitled to earth's resources, and that wealth built from these resources could be redistributed over a set period of time utilizing his proposed plan for universal resource inheritance. [7]
-        
-    In recent weeks, Larimer, a long - time supporter of an idea similar to universal basic income, what he calls "universal resource inheritance ", has been involved in a number of lengthy conversations on the subject. [7]
-        
-    
-
-
-#blockchain #Bitcoin #technologies #assets 
-        
-    Being the first publicly - traded cryptocurrency and blockchain - centered company, we provide our shareholders with diversified exposure to digital cryptocurrencies and blockchain technologies. [17]
-        
-    Our team has been building a framework for delivering global, sustainable, and scalable UBI through new digital asset technologies, namely blockchain. [15]
-        
-    First Bitcoin Capital Corp. The most significant of the transferences of these cryptocurrencies to Bots Inc., included, but was not limited to, the majority ownership of First Bitcoin ( COIN : BIT ), a cryptocurrency based on a unique blockchain similar to an improved version of Litecoin. [17]
-        
-    First Bitcoin Capital Corp ( OTC : BITCF ) is the largest shareholder of Bots, Inc. as a result of exchanging the majority of its assets therefor, but began developing digital currencies, proprietary blockchain technologies, and the digital currency exchange -A www. [17]
-        
-    
-
-
-#means #cash #individuals #testing 
-        
-    UBI is a regular cash payment to individuals, without being subject to means testing or requiring any form of work to qualify. [12]
-        
-    There's no means - testing, no sanctions if the subjects become employed or generate an income from freelance working during the trial. [12]
-        
-    Like basic income, it guarantees everyone ( where everyone can mean, for example, all adult citizens of a country ) a certain amount of regular income. [8]
-        
-    The IMF describes universal basic income as an income support mechanism, in which regular cash payments are intended to reach all ( or a very large ) portion of the population with no ( or minimal ) conditions. [16]
-        
-    An unconditional income that is sufficient to meet a person's basic needs ( at or above the poverty line ), is called full basic income, while if it is less than that amount, it is called partial. [8]
-        
-    
-
-
-#government #implementation #control #Russia 
-        
-    Barely a day goes by without reports of another country -- China, India, and Russia most notable among them -- decreeing the eventual implementation of government backed cryptocurrency. [13]
-        
-    As long as governments remain the presiding entities controlling our society, the laws they enact will largely dictate the future implementation and usage of crypto. [13]
-        
-    While many cryptocurrencies currently exist, we have seen governments like China and Russia ban their use in one fell swoop, rendering them illegal while promising a forthcoming release of their own official digital currencies. [13]
-        
-    Ironically, the very tools that were built with visions of freedom and autonomy may very well be the implement of choice for a new level of surveillance and control. [13]
-        
-    While there are many clear benefits in having government backed crypto, there may be a few drawbacks to centralized implementation of a technology originally conceived by anti - authoritarian anarchists. [13]
-        
-    
-
-
-#benefits #work #jobs #activities 
-        
-    The idea is to test if the carrot works better than the stick in encouraging the unemployed to accept new jobs offers and to seek income from entrepreneur activities. [0]
-        
-    The basic income cash sum will replace the existing flat rate unemployment benefits and will continue to be paid even if they take up jobs. [0]
-        
-    Since 1970s, social policies on both sides of the Atlantic have been dominated by workfare policies where the payment of benefits is made conditional on participation in job promoting activities such as training, rehabilitation and work experience, or on unpaid or low - paid work. [0]
-        
-    An additional advantage is that recipients of this basic income do not need to report their incomes to the unemployment office, which reduces bureaucracy and the insecurity caused by fluctuating benefit levels. [0]
-        
-    
-
-
-#University #Economist #economics #told #CNBC 
-        
-    Guy Standing, a research professor in development studies at SOAS, University of London, told CNBC via telephone that there was no prospect of a global economic revival without a universal basic income. [16]
-        
-    Cailin Birch, global economist at the Economist Intelligence Unit, told CNBC via telephone that Spain's decision to roll out a universal basic income could pave the way for other countries to follow suit. [16]
-        
-    Economists at RMIT University in Melbourne and the University of Queensland, in Australia, have proposed a system that eliminates the need for centralized pooling : a personal equity swap. [2]
-        
-    At the end of March, a post on the World Economic Forum website admitted that UBI had moved from the "fringes of mainstream economics" to center stage, because of COVID-19. [15]
-        
-    
-
-
-#Democracy #Earth #citizens #participant #token 
-        
-    Participants validate their identity based consensus of participant singularity and humanity; validated participants are granted an ERC725 citizenship with the right to participate in the Democracy Earth Network. [14]
-        
-    The growing support for UBI resonates with the Democracy Earth vision behind The Social Smart Contract and the development of our tokenized liquid democracy platform. [14]
-        
-    A token - based liquid democracy model fights corruption by allowing citizens full control over their votes to accurately signal their priorities. [14]
-        
-    Democracy Earth's VOTE token provides a highly implementable version of a Universal Basic Income that is easy to distribute, easy to audit, and provides both political and economic liquidity. [14]
-        
-    In the Democracy Earth network this liquidity is provided in the form of a VOTE token, operating on a mobile, open source blockchain - based governance platform ( alpha release name : Sovereign ). [14]
-        
-    
-
-
-#m #app #sell #buy #wants 
-        
-    If I 'm the only person who wants to buy the new "iPhone Zillion," perhaps I 'd have to pay $ 1B ( likely more ) for it. [10]
-        
-    The same is true for app developers who can now give apps away for free or sell them for just a few dollars while still making a profit. [10]
-        
-    But since there are millions of people who would want to buy that phone, Apple can sell it for hundreds of dollars and yet make a lot of money. [10]
-        
-    
-
-
-#year #receive #state #age #Alaska 
-        
-    The report stated that all adults -- those over the age of 18 -- would receive R$600 ( $ 113 ) per month. [15]
-        
-    If an adolescent of less than 18 years of age has a child, she ( or he ) will also receive the benefit ( of R$1200 ). [15]
-        
-    Yang proposed for the United States to set a guaranteed payment of $ 1,000 per month, or $ 12,000 per year, to all U.S. citizens over the age of 18. [4]
-        
-    Alaska already has a basic income - like program with its Permanent Fund, which pays out about $ 1,000 in dividends from the state's oil revenues to every resident, every year. [5]
-        
-    The airwaves add about 2.5 percent to the nation's GDP every year, which Barnes calculates adds up to about $ 418 billion on an average year. [2]
-        
-    
-
-
-#currency #inflation #money #supply #price 
+ Yang proposed for the United States to set a guaranteed payment of $ 1,000 per month, or $ 12,000 per year, to all U.S. citizens over the age of 18. [4] Alaska already has a basic income-like program with its Permanent Fund, which pays out about $ 1,000 in dividends from the state's oil revenues to every resident, every year. [5]
         
     Increasing the money supply could cause price inflation, but it doesn't always have to, even with traditional fiat currencies like the US dollar. [10]
         
